@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![](https://github.com/ishandutta2007/ishandutta2007/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
 
 <h3 align="center">Composer, Coder & Conceptual Engineer of Improvised Systems</h3>
 <h4 align="center">Blending AI, Free Improvisation & Experimental Audiovisual Languages</h4>
