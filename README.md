@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://stars.github.com/profiles/tiagomoraismorgado/">
-    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
+    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2025"/></a>
 </p>
 
 <details open> 
