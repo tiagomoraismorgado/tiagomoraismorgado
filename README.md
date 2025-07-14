@@ -20,10 +20,10 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/tiagomoraismorgado?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-- 🎧 I have deep interests in Generative Art, Algorithmic Composition, AI for Music, and Real-Time Improvisation Systems  
-- 🔭 Currently exploring integrations between ChatGPT, SuperCollider, and audiovisual scripting languages (Processing, OpenFrameworks)  
-- 🌱 Learning and experimenting with LangChain, MediaChain, and decentralized multimedia archives  
-- 🤝 Looking to collaborate on AI-assisted composition, visual music, live coding, and blockchain-based performance documentation  
+- 🎧 Passionate about generative art, experimental algorithmic composition, and AI-driven improvisation systems for live music  
+- 🔭 Actively developing real-time integrations between ChatGPT, SuperCollider, and creative coding tools like Processing and OpenFrameworks to expand audiovisual languages  
+- 🌱 Exploring LangChain, MediaChain, and decentralized platforms to innovate how multimedia knowledge and performances are archived and shared  
+- 🤝 Open to collaborations blending AI, live coding, audiovisual improvisation, and blockchain for authentic artistic provenance and new creative workflows  
 
 
 <p align="center">
