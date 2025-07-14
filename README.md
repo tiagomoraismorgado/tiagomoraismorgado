@@ -14,20 +14,20 @@
 
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ishandutta2007"/></a>
-  <a href="https://github.com/ishandutta2007?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ishandutta2007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/tiagomoraismorgado?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/tiagomoraismorgado"/></a>
+  <a href="https://github.com/tiagomoraismorgado?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/tiagomoraismorgado?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-- 😄 I have interests in HPC/Generative AI/Web3/RPA
-- 🔭 I’m currently working on ChatGPT integrations
-- 🌱 I’m currently learning Langchain and Mediachain
-- 👯 I’m looking to collaborate on ChatGPT/AI/Blockchain
+- 🎧 I have deep interests in Generative Art, Algorithmic Composition, AI for Music, and Real-Time Improvisation Systems  
+- 🔭 Currently exploring integrations between ChatGPT, SuperCollider, and audiovisual scripting languages (Processing, OpenFrameworks)  
+- 🌱 Learning and experimenting with LangChain, MediaChain, and decentralized multimedia archives  
+- 🤝 Looking to collaborate on AI-assisted composition, visual music, live coding, and blockchain-based performance documentation  
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ishan+Dutta" alt="Ishan" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Tiago+Morais+Morgado" alt="Tiago" /></a>
   <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=ChatGPT/AI/Blockchain;20%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
