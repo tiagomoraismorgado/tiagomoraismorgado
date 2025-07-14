@@ -23,10 +23,10 @@
 - 🎧 Passionate about generative art, experimental algorithmic composition, and AI-driven improvisation systems for live music  
 - 🔭 Actively developing real-time integrations between ChatGPT, SuperCollider, and creative coding tools like Processing and OpenFrameworks to expand audiovisual languages  
 - 🌱 Exploring LangChain, MediaChain, and decentralized platforms to innovate how multimedia knowledge and performances are archived and shared  
-- 🤝 Open to collaborations blending AI, live coding, audiovisual improvisation, and blockchain for authentic artistic provenance and new creative workflows  
+- 🤝 Open to collaborations blending AI, live coding, and audiovisual improvisation for new creative workflows and expressive performance  
 
 
-
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tiagomoraismorgado&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tiagomoraismorgado&theme=dark&hide_border=false)<br/>
