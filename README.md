@@ -1,26 +1,16 @@
 ### Hi there 👋
 [![](https://github.com/ishandutta2007/ishandutta2007/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
 
- <h3 align="center">A techie passionate about AI & Blockchain</h3>
- <h4 align="center"> One of Top 10 active github users from India [https://committers.top/india_private] </h4>
- <h4 align="center"> One of Top 30 Spoj users from India [SPOJ](https://www.spoj.com/ranks/users/IN/) </h4>
- <h4 align="center"> One of Top 500 stackoverflow users from India [https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country#resultSets] </h4>
- <h4 align="center"> One of Top 600 math.stackexchange users from India [https://data.stackexchange.com/math/query/53058/top-users-by-country] </h4>
-
-[![committers.top badge](https://user-badge.committers.top/india_private/vinayakkulkarni.svg)](https://user-badge.committers.top/india_private/vinayakkulkarni)[![trophy](https://github-profile-trophy.vercel.app/?username=ishandutta2007)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- ![Ishan's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&theme=dark&show_icons=true) -->
-
-<p align="center">
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
-</p>
-
+<h3 align="center">Composer, Coder & Conceptual Engineer of Improvised Systems</h3>
+<h4 align="center">Blending AI, Free Improvisation & Experimental Audiovisual Languages</h4>
+<h4 align="center">Contributed to the intersection of computer music & open-source performance tech</h4>
+<h4 align="center">Developer of real-time visual & granular synthesis systems using SuperCollider & Processing</h4>
+<h4 align="center">Projects featured in academic circles, underground scenes, and radio networks across Europe</h4>
 
 <br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ishandutta2007)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tiagomoraismorgado)](https://git.io/streak-stats)
 
 
 
