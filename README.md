@@ -58,8 +58,8 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/ishandutta2007/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/ishandutta2007/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ishandutta2007's streak" src="https://streak-stats.demolab.com/?user=ishandutta2007&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://github.com/tiagomoraismorgado/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tiagomoraismorgado's streak" src="https://streak-stats.demolab.com/?user=tiagomoraismorgado&theme=monokai-metallian&hide_border=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
