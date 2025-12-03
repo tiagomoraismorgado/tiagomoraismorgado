@@ -7,6 +7,6 @@ putting it together, i do black magick with music, in order to turn light into d
 and darkness into light. hermetic orders and secret societies? no one needs that.
 read books on esotericism, listen to podcasts, and listen to music. no one needs more then that
 
-<img src="https://i.pinimg.com/736x/c2/94/9e/c2949e5ebb8caa10259788edf975c7f6.jpg" size="small"></img>
+<img src="https://i.pinimg.com/736x/c2/94/9e/c2949e5ebb8caa10259788edf975c7f6.jpg"></img>
 
 <br/>  
