@@ -3,7 +3,7 @@
 my name is tiago. i practice operative hermeticism throughout music, graphics, code, and poetry.
 my main goal with that is doing artworks that represent my vision of operative black and white magick,
 focusing mostly in doing silly music with viola and live electronics.
-putting it together, i do black magick with music, in order to turn light into darkness, 
+putting it together, i do magick with music, in order to turn light into darkness, 
 and darkness into light. that means, i also practice theurgy, and white magick, in order to emanate light
 and turn it into shade.
 hermetic orders and secret societies? no one needs that.
