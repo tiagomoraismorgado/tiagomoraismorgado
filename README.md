@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-my name is tiago. i practice operative hermeticism throughout music, graphics, code, and poetry.
-my main goal with that is doing artworks that represent my vision of operative black and white magick,
-focusing mostly in doing silly music with viola and live electronics.
-putting it together, i do magick with music, in order to turn light into darkness, 
-and darkness into light. that means, i also practice theurgy, and white magick, in order to emanate light
-and turn it into shade, which means that i also practice thelema.
-hermetic orders and secret societies? no one needs that, specially when you have SAP consultancy and automation,
-as well as telecommunications (telekom mobile, and so on so forth).
-occult elite groups and scientology? you only need the internet.
-read books on esotericism, listen to podcasts, and listen to music. no one needs more then that
+My name is Tiago. I practice operative Hermeticism through music, graphics, code, and poetry.
+At the core of my work lies the creation of artworks that embody my vision of operative black and white magick—most often expressed as absurd, playful music for viola and live electronics. In essence, I perform magick through sound: transmuting light into darkness and darkness into light. This is simultaneously goetic and theurgic, a deliberate dance along the entire spectrum of the Tree of Life and the Tree of Death.
+I also walk the path of Thelema and invoke the highest forms of white magick, not to banish shadow but to emanate light so intensely that it casts shade—revealing nuance where others see only opposites.
+Hermetic orders, secret societies, occult elite circles, or Scientology-style hierarchies? Entirely unnecessary. True initiation today requires no lodge room, no passwords, no dues.
+All that is needed is:
 
+- SAP consultancy and automation scripts running in the background like faithful familiars
+- a Telekom Mobile SIM card keeping the sigils connected 24/7
+- the infinite library of the internet
+- books on esotericism (physical or digital)
+- podcasts that whisper while I code
+- and music—always music
+
+That is the only temple I recognize. That is the only hierarchy I serve.
 <img src="https://i.pinimg.com/736x/c2/94/9e/c2949e5ebb8caa10259788edf975c7f6.jpg"></img>
 
 <br/>  
