@@ -14,6 +14,7 @@ All that is needed is:
 - and music—always music
 
 That is the only temple I recognize. That is the only hierarchy I serve.
+
 <img src="https://i.pinimg.com/736x/c2/94/9e/c2949e5ebb8caa10259788edf975c7f6.jpg"></img>
 
 <br/>  
