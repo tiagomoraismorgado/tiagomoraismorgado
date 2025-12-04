@@ -6,7 +6,8 @@ focusing mostly in doing silly music with viola and live electronics.
 putting it together, i do magick with music, in order to turn light into darkness, 
 and darkness into light. that means, i also practice theurgy, and white magick, in order to emanate light
 and turn it into shade, which means that i also practice thelema.
-hermetic orders and secret societies? no one needs that, specially when you have SAP consultancy and automation.
+hermetic orders and secret societies? no one needs that, specially when you have SAP consultancy and automation,
+as well as telecommunications.
 occult elite groups and scientology? you only need the internet.
 read books on esotericism, listen to podcasts, and listen to music. no one needs more then that
 
