@@ -7,7 +7,7 @@ putting it together, i do magick with music, in order to turn light into darknes
 and darkness into light. that means, i also practice theurgy, and white magick, in order to emanate light
 and turn it into shade, which means that i also practice thelema.
 hermetic orders and secret societies? no one needs that, specially when you have SAP consultancy and automation,
-as well as telecommunications.
+as well as telecommunications (telekom mobile, and so on so forth).
 occult elite groups and scientology? you only need the internet.
 read books on esotericism, listen to podcasts, and listen to music. no one needs more then that
 
